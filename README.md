@@ -35,7 +35,7 @@
 - ⚡ Fun fact: I spend almost 1 hour playing pubg everyday.
 
 [![Twitter: rvndsngwn](https://img.shields.io/twitter/follow/sangwan_arvind?style=social)](https://twitter.com/sangwan_arvind)
-[![Linkedin: rvndsngwn](https://img.shields.io/badge/-arvind-sangwan-907878192-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arvind-sangwan-907878192/)](https://www.linkedin.com/in/arvind-sangwan-907878192/)
+[![Linkedin: rvndsngwn](https://img.shields.io/badge/-rvndsngwn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arvind-sangwan-907878192/)](https://www.linkedin.com/in/arvind-sangwan-907878192/)
 [![GitHub rvndsngwn](https://img.shields.io/github/followers/rvndsngwn?label=follow&style=social)](https://github.com/rvndsngwn)
 [![website](https://img.shields.io/badge/PortfolioWebsite-rvndsngwn.github.io-2648ff?style=flat-square&logo=google-chrome)](https://rvndsngwn.github.io/portfolio_one/#/)
 
