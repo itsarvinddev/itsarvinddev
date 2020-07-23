@@ -55,12 +55,12 @@
 <a href="https://github.com/rvndsngwn">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rvndsngwn&show_icons=true&theme=dracula&line_height=27" alt="Arvind's github stats"/>
 </a>
-<a href="https://github.com/rvndsngwn/mohesu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rvndsngwn&repo=mohesu&theme=dark" />
+<a href="https://github.com/rvndsngwn/rvnd_potfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rvndsngwn&repo=rvnd_potfolio&theme=dark" />
 
 </a>
-<a href="https://github.com/rvndsngwn/portfolio_one">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rvndsngwn&repo=portfolio_one&theme=dark" />
+<a href="https://github.com/rvndsngwn/webart">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rvndsngwn&repo=webart&theme=dark" />
 </a>
 
 <div align="center">
