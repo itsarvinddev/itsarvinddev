@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on [Flights Booking App](https://rvndsngwn.github.io/)
 
-- 🤝 I’m looking for help with [AI and ML based projects](https://rvndsngwn.github.io/portfolio_one/#/)
+- 🤝 I’m looking for help with [AI and ML based projects](https://rvndsngwn.github.io/portfolio_one)
 
-- 👨‍💻 All of my projects are available at [https://rvndsngwn.github.io/portfolio_one/#/](https://rvndsngwn.github.io/portfolio_one/#/)
+- 👨‍💻 All of my projects are available at [https://rvndsngwn.github.io/portfolio_one/#/](https://rvndsngwn.github.io/portfolio_one)
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **rvndsngwn@gmail.com**
 
-- 📄 Know about my experiences [https://rvndsngwn.github.io/portfolio_one/#/](https://rvndsngwn.github.io/portfolio_one/#/)
+- 📄 Know about my experiences [https://rvndsngwn.github.io/portfolio_one/#/](https://rvndsngwn.github.io/portfolio_one)
 
 - ⚡ Fun fact **I think I look like a south Indian hero**
 
