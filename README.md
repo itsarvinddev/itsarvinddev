@@ -27,12 +27,12 @@
 
 - ⚡ Fun fact **I think I look like a south Indian hero**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<div align='center'>
+<!--<div align='center'>
 <img width ='20%' height = '20%'  src='https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png'/>
-</div>
+</div> -->
 <h2 align="left">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"></h2>
 <p align="left">
 <a href="https://dev.to/rvndsngwn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rvndsngwn" height="30" width="40" /></a>
@@ -51,9 +51,9 @@
 <p><a href="https://www.buymeacoffee.com/rvndsngwn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rvndsngwn" /></a></p><br><br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rvndsngwn&show_icons=true&locale=en&layout=compact" alt="rvndsngwn" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rvndsngwn&show_icons=true&locale=en" alt="rvndsngwn" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rvndsngwn&" alt="rvndsngwn" /></p>
 <br>
 
