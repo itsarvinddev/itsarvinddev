@@ -35,13 +35,13 @@
 </div> -->
 <h2 align="left">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"></h2>
 <p align="left">
-<a href="https://dev.to/rvndsngwn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/dev-dot-to.svg" alt="rvndsngwn" height="30" width="40" /></a>
-<a href="https://twitter.com/rvndsngwn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/twitter.svg" alt="rvndsngwn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arvind-sangwan-907878192" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/linkedin.svg" alt="arvind-sangwan-907878192" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13586790" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/stackoverflow.svg" alt="13586790" height="30" width="40" /></a>
-<a href="https://fb.com/rvndsngwn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/facebook.svg" alt="rvndsngwn" height="30" width="40" /></a>
-<a href="https://instagram.com/rvndsngwn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/instagram.svg" alt="rvndsngwn" height="30" width="40" /></a>
-<a href="https://medium.com/@rvndsngwn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/medium.svg" alt="@rvndsngwn" height="30" width="40" /></a> <a href="https://t.me/rvndsngwn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/telegram.svg" alt="uctlfac169mdrl3q6vjfidnw" height="30" width="40" /></a> <a href="https://www.youtube.com/channel/UCTlfac169MDrl3q6VJFIdNw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uctlfac169mdrl3q6vjfidnw" height="30" width="40" /></a>
+<a href="https://dev.to/rvndsngwn" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="rvndsngwn" height="40" width="40" /></a>
+<a href="https://twitter.com/rvndsngwn" target="blank"><img align="center" src="https://img.icons8.com/doodle/96/000000/twitter--v1.png" alt="rvndsngwn" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/arvind-sangwan-907878192" target="blank"><img align="center" src="https://img.icons8.com/doodle/96/000000/linkedin--v2.png" alt="arvind-sangwan-907878192" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/13586790" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="13586790" height="40" width="40" /></a>
+<a href="https://fb.com/rvndsngwn" target="blank"><img align="center" src="https://img.icons8.com/doodle/96/000000/facebook-new.png" alt="rvndsngwn" height="40" width="40" /></a>
+<a href="https://instagram.com/rvndsngwn" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/instagram-new.png" alt="rvndsngwn" height="40" width="40" /></a>
+<a href="https://medium.com/@rvndsngwn" target="blank"><img align="center" src="https://img.icons8.com/nolan/96/medium-new.png" alt="@rvndsngwn" height="40" width="40" /></a> <a href="https://t.me/rvndsngwn" target="blank"><img align="center" src="https://img.icons8.com/doodle/96/000000/telegram-app.png" alt="uctlfac169mdrl3q6vjfidnw" height="40" width="40" /></a> <a href="https://www.youtube.com/channel/UCTlfac169MDrl3q6VJFIdNw" target="blank"><img align="center" src="https://img.icons8.com/doodle/96/000000/youtube--v1.png" alt="uctlfac169mdrl3q6vjfidnw" height="40" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px></h2>
