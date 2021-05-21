@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **rvndsngwn@gmail.com**
 
-- 📄 Know about my experiences [https://rvndsngwn.github.io/portfolio_one/#/](https://rvndsngwn.github.io/portfolio_one)
+- 📄 Know about my experiences [www.rvndsngwn.dev](https://rvndsngwn.dev)
 
 - ⚡ Fun fact **I think I look like a south Indian hero**
 
