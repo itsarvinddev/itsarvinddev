@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Mobile Game with Dart and Flutter**
 
-- 👯 I’m looking to collaborate on [Flights Booking App](https://rvndsngwn.github.io/)
+- 👯 I’m looking to collaborate on [Flights Booking App](https://rvndsngwn.dev)
 
-- 🤝 I’m looking for help with [AI and ML based projects](https://rvndsngwn.github.io/portfolio_one)
+- 🤝 I’m looking for help with [AI and ML based projects](https://www.rvndsngwn.dev)
 
-- 👨‍💻 All of my projects are available at [https://rvndsngwn.github.io/portfolio_one/#/](https://rvndsngwn.github.io/portfolio_one)
+- 👨‍💻 All of my projects are available at [https://rvndsngwn.github.io/portfolio_one/#/](https://rvndsngwn.dev)
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
