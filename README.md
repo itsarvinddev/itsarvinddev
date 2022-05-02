@@ -1,9 +1,11 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Arvind Sangwan</h1>
 <h2 align="center">A passionate flutter developer from India</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rvndsngwn&label=Profile%20views&color=0e75b6&style=flat" alt="rvndsngwn" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=rvndsngwn&label=Profile%20views&color=0e75b6&style=flat" alt="rvndsngwn" />
+<img src="https://wakatime.com/badge/user/eb0e22cb-19ea-4f12-a13c-1c778755a299.svg" alt="https://wakatime.com/@eb0e22cb-19ea-4f12-a13c-1c778755a299" />
+</p>
 
-[![wakatime](https://wakatime.com/badge/user/eb0e22cb-19ea-4f12-a13c-1c778755a299.svg)](https://wakatime.com/@eb0e22cb-19ea-4f12-a13c-1c778755a299)
 
 <p align="left"> <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='3%' height='3%'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='3%' height='3%'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='3%' height='3%'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='3%' height='3%'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='3%' height='3%'></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rvndsngwn" alt="rvndsngwn" /></a> </p>
