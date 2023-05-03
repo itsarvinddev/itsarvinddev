@@ -6,23 +6,23 @@
 
 🔭 I’m currently working on Flutter, Dart, Python & Angular.
 
-🌱 I’m currently learning Mobile Game with Dart and Flutter
+🌱 I’m currently learning Mobile Game with Dart and Flutter.
 
-👯 I’m looking to collaborate on Flights Booking App
+<!-- 👯 I’m looking to collaborate on Flights Booking App -->
 
-🤝 I’m looking for help with AI and ML based projects
+<!-- 🤝 I’m looking for help with AI and ML based projects -->
 
-👨‍💻 All of my projects are available at Github
+👨‍💻 All of my projects are available at Github.
 
-📝 I regularly write articles on medium.com
+<!-- 📝 I regularly write articles on medium.com -->
 
-💬 Ask me about Flutter, Android, iOS, YouTube and eGaming
+💬 Ask me about Flutter, Dart, eGaming, Appwrite, Python & Angular.
 
-📫 How to reach me #Socials
+<!--📫 How to reach me #Socials-->
 
-📄 Know about my experiences www.dev4flutter.com
+<!--📄 Know about my experiences www.dev4flutter.com-->
 
-⚡ Fun fact I think I look like a hero
+<!--⚡ Fun fact I think I look like a hero-->
 
 <a href="https://cloud.appwrite.io/card/64359f15cd825a8f1561">
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64359f15cd825a8f1561" alt="Appwrite Cloud Card" />
