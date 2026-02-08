@@ -30,7 +30,7 @@
 
 ## 🌐Socials
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/rvndsngwn) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rvndsngwn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rvndsngwn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rvndsngwn) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rvndsngwn) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/rvndsngwn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rvndsngwn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/rvndsngwn)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/itsarvinddev) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsarvinddev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsarvinddev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsarvinddev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@itsarvinddev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/itsarvinddev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsarvinddev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/itsarvinddev)
 
 ## 💻Tech Stack
 
@@ -48,14 +48,14 @@
 
 ## 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=rvndsngwn&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rvndsngwn&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rvndsngwn&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-[![Arvind's github activity graph](https://activity-graph.herokuapp.com/graph?username=rvndsngwn&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-readme-stats.vercel.app/api?username=itsarvinddev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=itsarvinddev&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsarvinddev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+[![Arvind's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsarvinddev&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=rvndsngwn&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=itsarvinddev&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
 
@@ -67,10 +67,10 @@
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=rvndsngwn&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in) [![](https://wakatime.com/badge/user/eb0e22cb-19ea-4f12-a13c-1c778755a299.svg)](https://wakatime.com/@eb0e22cb-19ea-4f12-a13c-1c778755a299)
+[![](https://komarev.com/ghpvc/?username=itsarvinddev&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in) [![](https://wakatime.com/badge/user/eb0e22cb-19ea-4f12-a13c-1c778755a299.svg)](https://wakatime.com/@eb0e22cb-19ea-4f12-a13c-1c778755a299)
 
 ## 💰You can help me by Donating
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rvndsngwn) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rvndsngwn) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rvndsngwn)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/itsarvinddev) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/itsarvinddev) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/itsarvinddev)
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
